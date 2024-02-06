@@ -46,8 +46,6 @@ const bestCoffee = "Star one coffee"
 const StarOneCoffee = true
 
 
-¥
-
 (`which coffee is the best?`) 
 if (bestCoffee == "Star one coffee"){
     alert(`Thats correct!:)`)
